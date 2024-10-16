@@ -55,8 +55,6 @@ The models sorted by their aggregate score are as follows:
 | Logistic Regression           | 0.9727           |
 | Naive Bayes                  | 0.8652           |
 
-### Visualizations
-![Model Performance Comparison]([result.png](https://github.com/kramprakash2005/Network_Analysis/blob/main/results.png))
 
 ## Discussion
 The results indicate that XGBoost and Random Forest outperform other models in terms of accuracy and F1 score. The findings contribute valuable insights for practitioners in the field of network security.
@@ -64,8 +62,7 @@ The results indicate that XGBoost and Random Forest outperform other models in t
 ## Conclusion
 This study provides a comprehensive comparison of supervised machine learning algorithms for anomaly detection. Future work may explore hybrid models or deep learning approaches for enhanced performance.
 
-## References
-- [Dataset source](http://kdd.ics.uci.edu/databases/kddcup99/kddcup.data_10_percent.gz)
+
 
 ## License
 This project is licensed under the MIT License.
