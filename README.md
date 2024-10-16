@@ -56,7 +56,7 @@ The models sorted by their aggregate score are as follows:
 | Naive Bayes                  | 0.8652           |
 
 ### Visualizations
-![Model Performance Comparison](download(2).png)
+![Model Performance Comparison](result.png)
 
 ## Discussion
 The results indicate that XGBoost and Random Forest outperform other models in terms of accuracy and F1 score. The findings contribute valuable insights for practitioners in the field of network security.
